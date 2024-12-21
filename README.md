@@ -19,4 +19,5 @@ Modify any calculation-specific properties in the script, such as force threshol
 #### 4. Run the Script:
 
 Execute the script to analyze the data and detect force chains.
-Output visualizations and metrics will be generated for further study.
+Output visualizations will be .VTK file and open it with Paraview
+
